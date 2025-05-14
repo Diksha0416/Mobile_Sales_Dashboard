@@ -1,4 +1,4 @@
-# 📊 Motorola Sales Dashboard  
+# 📊 Mobile Sales Dashboard  
 
 ## 🔍 Overview  
 This interactive dashboard provides a visual representation of **Motorola's sales performance**, covering transactions, revenue, city-wise sales, payment methods, customer ratings, and mobile models.  
